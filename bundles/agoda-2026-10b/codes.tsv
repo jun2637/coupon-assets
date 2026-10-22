@@ -1,0 +1,27 @@
+플랫폼	분류	지역	제목	코드	할인율	금액표기	결제수단	통화	조건	만료일	검증일	제휴링크	근거링크	상단요약	순서
+agoda	호텔		마스터카드 월드 엘리트 16% 할인		16	최대 $60	마스터카드	USD	World Elite 등급 · USD 250 이상 결제 · 한국 발급 개인 신용·체크·선불카드 · 전용 페이지 진입 후 2시간 안에 결제	2027-03-31	2026-10-14	https://www.agoda.com/ko-kr/krmastercard?cid=1976427	https://www.agoda.com/ko-kr/krmastercard	Y	1
+agoda	호텔		네이버페이 결제 11% 할인		11	최대 $100	네이버페이		'C_NaverPay적용됨' 표시 숙소 · '지금 결제하기' 객실만(선예약 후지불 제외) · 투숙 12.31까지	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/naverpaypromo?cid=1976427	https://www.agoda.com/ko-kr/naverpaypromo	Y	2
+agoda	호텔		토스페이 결제 11% 할인		11	최대 $100	토스페이		'C_TosspayKR 적용됨' 표시 숙소 · '지금 결제하기' 객실만(선예약 후지불 제외) · 투숙 12.31까지	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/tosspaypromo?cid=1976427	https://www.agoda.com/ko-kr/tosspaypromo	Y	3
+agoda	호텔		카카오페이 결제 11% 할인		11	최대 $100	카카오페이		'C-KakaoPayKR 적용됨' 표시 숙소 · '지금 결제하기' 객실만 · 공식 페이지 상단 안내 기준이라 결제창에서 할인 확인	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/kakaopaypromo?cid=1976427	https://www.agoda.com/ko-kr/kakaopaypromo		4
+agoda	호텔		마스터카드 월드·셀렉트 12% 할인		12	최대 $45	마스터카드	USD	World·Select 등급, 플래티넘 선불 마스터카드 · USD 200 이상 결제	2027-03-31	2026-10-14	https://www.agoda.com/ko-kr/krmastercard?cid=1976427	https://www.agoda.com/ko-kr/krmastercard		5
+agoda	호텔		마스터카드 8% 할인		8	최대 $25	마스터카드	USD	그 외 마스터카드 · USD 150 이상 결제 · 한국 발급 개인카드	2027-03-31	2026-10-14	https://www.agoda.com/ko-kr/krmastercard?cid=1976427	https://www.agoda.com/ko-kr/krmastercard		6
+agoda	호텔		아고다 앱 첫 예약 10% 할인		10				아고다 앱으로 첫 예약할 때 · PC에서는 홈페이지 QR로 앱 설치	2026-10-31	2026-10-14		https://www.agoda.com/ko-kr/		7
+agoda	호텔		KB국민카드 7% 할인		7		KB국민카드	USD	태국·미국·말레이시아 호텔 10% · 국제브랜드 신용·체크카드(기업·BC·마에스트로 제외) · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/kbcard?cid=1976427	https://www.agoda.com/ko-kr/kbcard		8
+agoda	호텔		현대카드 7% 할인		7		현대카드	USD	태국·미국·말레이시아 호텔 10% · 법인·국내 전용 카드 제외 · VISA·Mastercard 브랜드는 USD 결제	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/hyundaicard?cid=1976427	https://www.agoda.com/ko-kr/hyundaicard		9
+agoda	호텔		신한카드 7% 할인		7		신한카드	USD	태국·미국·말레이시아 호텔 10% · USD 또는 현지 통화 결제 · 법인·BC·선불·기프트 제외	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/shinhancard?cid=1976427	https://www.agoda.com/ko-kr/shinhancard		10
+agoda	호텔		삼성카드 7% 할인		7		삼성카드		태국·미국·말레이시아 호텔 10% · 개인 신용카드(가족카드 포함)만 · 삼성페이 등 간편결제 제외 · 10월 예약분까지	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/samsungcardevent?cid=1976427	https://www.agoda.com/ko-kr/samsungcardevent		11
+agoda	호텔		하나카드 7% 할인		7		하나카드		태국·미국·말레이시아 호텔 10% · 신용·체크카드 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/hanacard?cid=1976427	https://www.agoda.com/ko-kr/hanacard		12
+agoda	호텔		우리카드 7% 할인		7		우리카드		태국·미국·말레이시아 호텔 10% · '프로모션 상품' 표시 숙소 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/wooricard?cid=1976427	https://www.agoda.com/ko-kr/wooricard		13
+agoda	호텔		NH농협카드 7% 할인		7		NH농협카드	USD	태국·미국·말레이시아 호텔 10% · 신용·체크카드 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/nhcard?cid=1976427	https://www.agoda.com/ko-kr/nhcard		14
+agoda	호텔		롯데카드 7% 할인		7		롯데카드		태국·미국·말레이시아 호텔 10% · 신용·체크카드 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/lottecardevent?cid=1976427	https://www.agoda.com/ko-kr/lottecardevent		15
+agoda	호텔		BC카드 7% 할인		7		BC카드		태국·미국·말레이시아 호텔 10% · 신용·체크카드 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/bccard?cid=1976427	https://www.agoda.com/ko-kr/bccard		16
+agoda	호텔		토스뱅크 체크카드 7% 할인		7		토스뱅크	KRW	태국·미국·말레이시아 호텔 10% · 원화로 결제하면 국내 매출로 승인 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/tossbank?cid=1976427	https://www.agoda.com/ko-kr/tossbank		17
+agoda	호텔		카카오뱅크 7% 할인		7		카카오뱅크		태국·미국·말레이시아 호텔 10% · 'kakaobank할인 적용됨' 표시 숙소 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/kakaobank?cid=1976427	https://www.agoda.com/ko-kr/kakaobank		18
+agoda	호텔		PAYCO 결제 7% 할인		7		PAYCO		태국·미국·말레이시아 호텔 10% · '지금 결제하기' 객실만 · 투숙 2027.6.30까지	2026-12-31	2026-10-14	https://www.agoda.com/ko-kr/payco?cid=1976427	https://www.agoda.com/ko-kr/payco		19
+agoda	호텔		VISA카드 7% 할인		7		VISA	USD	한국 발급 비자카드 · 무이자 할부를 고르면 할인 제외 · 예산 소진 시 조기 종료	2029-03-31	2026-10-14	https://www.agoda.com/ko-kr/visakorea?cid=1976427	https://www.agoda.com/ko-kr/visakorea		20
+agoda	호텔		숙소 8% 할인 쿠폰		8	최대 6만원			아고다 할인 쿠폰 페이지에서 받기 · 13만 8,200원 이상 예약 · 쿠폰에 표시된 기한(3일) 안에 사용	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/deals?cid=1976427	https://www.agoda.com/ko-kr/deals		21
+agoda	호텔		숙소 5% 할인 쿠폰		5	최대 4만원			아고다 할인 쿠폰 페이지에서 받기 · 최소 금액 표시 없음 · 쿠폰에 표시된 기한(3일) 안에 사용	2026-10-31	2026-10-14	https://www.agoda.com/ko-kr/deals?cid=1976427	https://www.agoda.com/ko-kr/deals		22
+agoda	기획전		월간 중순 세일			최대 15%			매월 12~25일 · 예약일로부터 90일 안에 체크인하는 엄선 숙소	2026-10-25	2026-10-22	https://www.agoda.com/ko-kr/MidMonthSale?cid=1976427	https://www.agoda.com/ko-kr/MidMonthSale		101
+agoda	기획전		해외 여행 특가			최대 30%			해외 호텔·리조트 특가 모음 · 아고다 할인 쿠폰 페이지 상시 기획전		2026-10-22	https://www.agoda.com/ko-kr/c/WelcomeBackGlobal?cid=1976427	https://www.agoda.com/ko-kr/c/WelcomeBackGlobal		102
+agoda	기획전	국내	국내 숙소 특가			최대 25%			서울·제주·부산 등 국내 호텔·리조트 · 예약일로부터 90일 안에 체크인		2026-10-22	https://www.agoda.com/ko-kr/c/GoLocalKR?cid=1976427	https://www.agoda.com/ko-kr/c/GoLocalKR		103
+agoda	기획전		기간 한정 요금 할인			최대 15%			아고다 할인 쿠폰 페이지의 '지금 적용하기'로 받는 숙소 특가 · 매진되면 종료		2026-10-14	https://www.agoda.com/ko-kr/deals?cid=1976427	https://www.agoda.com/ko-kr/deals		105

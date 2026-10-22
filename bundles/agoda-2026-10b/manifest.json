@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "agoda",
+    "name": "아고다",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "아고다 할인코드, 할인쿠폰 2026년 10월",
+    "slug": "agoda-promo-code",
+    "content": "article.html"
+  },
+  "images": [],
+  "codes": "codes.tsv"
+}
