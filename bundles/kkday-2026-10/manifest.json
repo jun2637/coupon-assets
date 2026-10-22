@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "kkday",
+    "name": "KKday",
+    "aff": "https://www.kkday.com/ko?cid=27197&ud1=Homepage",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "KKday 할인코드, 할인쿠폰 2026년 10월",
+    "slug": "kkday-promo-code",
+    "content": "article.html",
+    "featured": "kkday-coupon-featured.jpg",
+    "seo": {
+      "title": "KKday 할인코드, 할인쿠폰 2026년 10월 – 온천·동남아 35% · VISA 10%",
+      "description": "KKday 할인코드와 할인쿠폰을 공식 페이지에서 확인해 정리했습니다. 온천·동남아 35%, VISA 투어·eSIM 10%, 앱 첫 구매 최대 10%, 홍콩·태국·스위스·싱가포르 쿠폰과 10월 카드 혜택까지.",
+      "focus_keyword": "KKday 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "kkday-coupon-winter.jpg",
+      "alt": "KKday 할인코드 온천 동남아 겨울 쿠폰 35% 할인"
+    },
+    {
+      "file": "kkday-coupon-visa.jpg",
+      "alt": "KKday VISA 할인코드 투어 eSIM 10% 티켓 교통 5%"
+    },
+    {
+      "file": "kkday-coupon-newmember.jpg",
+      "alt": "KKday 신규회원 할인쿠폰 앱 첫 구매 10% 5% 체험 교통 5만원"
+    },
+    {
+      "file": "kkday-coupon-card.jpg",
+      "alt": "KKday 카드 할인 NH농협카드 최대 1만원 신한 우리 3% 현대카드 M포인트"
+    },
+    {
+      "file": "kkday-coupon-featured.jpg",
+      "alt": "KKday 할인코드 할인쿠폰 2026년 10월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
