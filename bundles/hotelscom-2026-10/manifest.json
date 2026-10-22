@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "hotelscom",
+    "name": "호텔스닷컴",
+    "aff": "https://www.hotels.com/affiliates/hotelscom-home.wg8WQb0",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "호텔스닷컴 할인코드, 할인쿠폰 2026년 10월",
+    "slug": "hotelscom-promo-code",
+    "content": "article.html",
+    "featured": "hotelscom-coupon-featured.jpg",
+    "seo": {
+      "title": "호텔스닷컴 할인코드, 할인쿠폰 2026년 10월 – NH 25% · KB 15% · 마스터카드 13%",
+      "description": "호텔스닷컴 할인코드와 할인쿠폰을 공식 카드 제휴 페이지에서 확인해 정리했습니다. NH농협 zgm.휴가중카드 최대 25%, KB국민 15%, 마스터카드 13%, 신한 10%, 하나 7% 코드와 사용법까지.",
+      "focus_keyword": "호텔스닷컴 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "hotelscom-coupon-nh.jpg",
+      "alt": "호텔스닷컴 할인코드 NH농협 zgm.휴가중카드 NH25 최대 25% 할인"
+    },
+    {
+      "file": "hotelscom-coupon-kb.jpg",
+      "alt": "호텔스닷컴 KB국민카드 할인코드 15KBCARD 15% 10KBCARD 10%"
+    },
+    {
+      "file": "hotelscom-coupon-mastercard.jpg",
+      "alt": "호텔스닷컴 마스터카드 할인코드 MCKR13 13% MCKR8 8%"
+    },
+    {
+      "file": "hotelscom-coupon-card.jpg",
+      "alt": "호텔스닷컴 카드 할인 신한카드 SHINHAN10 10% 하나카드 7%"
+    },
+    {
+      "file": "hotelscom-coupon-featured.jpg",
+      "alt": "호텔스닷컴 할인코드 할인쿠폰 2026년 10월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
