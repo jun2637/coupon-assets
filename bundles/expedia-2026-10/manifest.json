@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "expedia",
+    "name": "익스피디아",
+    "aff": "https://expedia.com/affiliate?siteid=1&landingPage=https%3A%2F%2Fwww.expedia.co.kr%2F&camref=1100l6w7Y8&creativeref=1100l86806&adref=PZEWjjNuZp",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "익스피디아 할인코드, 할인쿠폰 2026년 10월",
+    "slug": "expedia-promo-code",
+    "content": "article.html",
+    "featured": "expedia-coupon-featured.jpg",
+    "seo": {
+      "title": "익스피디아 할인코드, 할인쿠폰 2026년 10월 – 카드사 9% 코드 총정리",
+      "description": "익스피디아 할인코드와 할인쿠폰을 공식 카드 제휴 페이지에서 확인해 정리했습니다. KB국민·신한·현대·하나 9%, NH농협·마스터카드·아멕스 8%, 삼성·롯데 7% 코드와 사용법까지.",
+      "focus_keyword": "익스피디아 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "expedia-coupon-9.jpg",
+      "alt": "익스피디아 할인코드 KB국민 신한 현대 하나카드 9% 할인"
+    },
+    {
+      "file": "expedia-coupon-global.jpg",
+      "alt": "익스피디아 마스터카드 할인코드 MASTERKR8 아멕스 AMEXKR8 8%"
+    },
+    {
+      "file": "expedia-coupon-card.jpg",
+      "alt": "익스피디아 카드 할인 NH농협카드 NHCARD8 8% 삼성카드 롯데카드 7%"
+    },
+    {
+      "file": "expedia-coupon-member.jpg",
+      "alt": "익스피디아 회원가 10% 이상 앱 전용 특가 최대 20% 주말여행 마감 특가"
+    },
+    {
+      "file": "expedia-coupon-featured.jpg",
+      "alt": "익스피디아 할인코드 할인쿠폰 2026년 10월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
