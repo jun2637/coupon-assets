@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "myrealtrip",
+    "name": "마이리얼트립",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "마이리얼트립 할인코드 11월 – 항공 20%·결제 최대 12만원",
+    "slug": "myrealtrip-coupon",
+    "content": "article.html",
+    "featured": "myrealtrip-coupon-featured-nov.jpg",
+    "seo": {
+      "title": "마이리얼트립 할인코드 11월 – 항공 20%·결제 최대 12만원",
+      "description": "마이리얼트립 11월 할인코드와 결제혜택을 정리했습니다. 토스페이×현대카드·카카오페이×삼성·KB 최대 12만원, 해외 항공권 카드 즉시할인 최대 20%, 숙박세일 페스타까지 내 카드로 바로 비교하세요.",
+      "focus_keyword": "마이리얼트립 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "myrealtrip-coupon-payment-nov.jpg",
+      "alt": "마이리얼트립 할인코드 11월 결제혜택 토스페이 현대카드 카카오페이 삼성 KB 최대 12만원"
+    },
+    {
+      "file": "myrealtrip-coupon-flight-nov.jpg",
+      "alt": "마이리얼트립 해외 항공권 할인 11월 신한카드 20% 삼성 KB 롯데 NH IBK 15% 즉시할인"
+    },
+    {
+      "file": "myrealtrip-coupon-featured-nov.jpg",
+      "alt": "마이리얼트립 할인코드 2026년 11월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
