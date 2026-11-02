@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "agoda",
+    "name": "아고다",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "아고다 할인코드, 할인쿠폰 2026년 11월",
+    "slug": "agoda-promo-code",
+    "content": "article.html",
+    "featured": "agoda-coupon-featured-nov.jpg",
+    "seo": {
+      "title": "아고다 할인코드, 할인쿠폰 2026년 11월 – 카드·페이 최대 16% 총정리",
+      "description": "아고다 할인코드와 할인쿠폰을 공식 페이지에서 확인해 정리했습니다. 11월 네이버페이·토스페이·카카오페이 11%, 마스터카드 최대 16%, 국내 카드사 7~10%, 해외 특가 30%·국내 특가 25%, 태국 숙소 25%까지 한눈에.",
+      "focus_keyword": "아고다 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "agoda-coupon-pay-nov.jpg",
+      "alt": "아고다 할인코드 11월 네이버페이 토스페이 카카오페이 11% 할인"
+    },
+    {
+      "file": "agoda-coupon-featured-nov.jpg",
+      "alt": "아고다 할인코드 할인쿠폰 2026년 11월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
