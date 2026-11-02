@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "expedia",
+    "name": "익스피디아",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "익스피디아 할인코드, 할인쿠폰 2026년 11월",
+    "slug": "expedia-promo-code",
+    "content": "article.html",
+    "featured": "expedia-coupon-featured-nov.jpg",
+    "seo": {
+      "title": "익스피디아 할인코드, 할인쿠폰 2026년 11월 – 카드사 9% 코드 총정리",
+      "description": "익스피디아 할인코드와 할인쿠폰을 공식 카드 제휴 페이지에서 확인해 정리했습니다. KB국민·신한·현대·하나 9%, NH농협·마스터카드·아멕스 8%, 삼성·롯데 7% 코드와 사용법, 2027년까지 늘어난 쿠폰 기간까지.",
+      "focus_keyword": "익스피디아 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "expedia-coupon-global-nov.jpg",
+      "alt": "익스피디아 마스터카드 할인코드 MASTERKR8 아멕스 AMEXKR8 8% 숙박 2028년 6월까지"
+    },
+    {
+      "file": "expedia-coupon-featured-nov.jpg",
+      "alt": "익스피디아 할인코드 할인쿠폰 2026년 11월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
