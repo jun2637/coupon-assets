@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "platform": {
+    "slug": "klook",
+    "name": "클룩",
+    "mobile_only": false
+  },
+  "post": {
+    "title": "클룩 할인코드 쿠폰 2026년 11월",
+    "slug": "klook-promo-code",
+    "content": "article.html",
+    "featured": "klook-coupon-featured-nov.jpg",
+    "seo": {
+      "title": "클룩 할인코드 쿠폰 2026년 11월 – KB국민 유럽 10% · 파리 디즈니랜드 $50",
+      "description": "클룩 할인코드와 쿠폰을 공식 프로모션 페이지에서 확인해 정리했습니다. KB국민 마스터카드 유럽 10%·투어 $25·파리 디즈니랜드 $50, 일본 어트랙션 5%, 네이버페이 적립과 카드 제휴 혜택, 끝난 코드까지.",
+      "focus_keyword": "클룩 할인코드"
+    }
+  },
+  "images": [
+    {
+      "file": "klook-coupon-featured-nov.jpg",
+      "alt": "클룩 할인코드 쿠폰 2026년 11월"
+    }
+  ],
+  "codes": "codes.tsv"
+}
